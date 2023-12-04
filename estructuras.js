@@ -1,2 +1,0 @@
-SVGDescElement
-cccz
